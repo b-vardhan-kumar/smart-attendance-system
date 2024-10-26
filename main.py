@@ -1,12 +1,10 @@
 import os.path
 import datetime
 import pickle
-
 import tkinter as tk
 import cv2
 from PIL import Image, ImageTk
 import face_recognition
-
 import util
 from test import test
 
